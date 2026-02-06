@@ -176,12 +176,42 @@ Make sure Chrome is running and Claude in Chrome extension is active.
 - Try different search terms
 - Verify your matching rules aren't too restrictive
 
-## Contributing
+## Roadmap
 
-PRs welcome! Some ideas:
+### v0.1 - Current
+- [x] Automated job search on hiring.cafe
+- [x] Smart filtering (salary, location, dealbreakers)
+- [x] Job history tracking
+- [x] Daily cron automation
+- [x] Self-configuring setup flow
+
+### v0.2 - Work History Interview
+- [ ] Interactive interview to capture detailed work history
+- [ ] Deep-dive on accomplishments, metrics, and impact
+- [ ] Store structured work history in `assets/work-history.md`
+- [ ] Use as foundation for all application materials
+
+### v0.3 - Tailored Applications
+- [ ] Generate customized resume for each target job
+- [ ] Generate tailored cover letters highlighting relevant experience
+- [ ] Match work history accomplishments to job requirements
+- [ ] Store generated materials in `assets/applications/`
+
+### v0.4 - Proactive Company Research
+- [ ] Research companies beyond job boards
+- [ ] Identify target companies based on preferences (industry, stage, culture)
+- [ ] Track companies not currently hiring but worth monitoring
+- [ ] Alert when target companies post new roles
+
+### Future Ideas
 - Support for additional job boards (LinkedIn, Indeed, etc.)
 - Email digest of daily results
 - Integration with ATS/application tracking
+- Interview prep based on job description + work history
+
+## Contributing
+
+PRs welcome! Check the roadmap above for planned features, or open an issue to discuss new ideas.
 
 ## License
 
