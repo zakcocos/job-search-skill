@@ -21,7 +21,7 @@ An automated job search skill that uses browser automation to find and evaluate 
 ### 1. Clone to your skills directory
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/job-search-skill.git ~/.claude/skills/job-search
+git clone https://github.com/zakcocos/job-search-skill.git ~/.claude/skills/job-search
 ```
 
 ### 2. Add your resume
